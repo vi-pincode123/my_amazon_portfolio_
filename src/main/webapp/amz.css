@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+#dv{
+	position: absolute;
+	top: 736px;
+	left: 620px;
+	width: 30px;
+	height: 40px;
+}
+#disp{
+	position: absolute;
+	top: 736px;
+	left: 940px;
+	width: 30px;
+	height: 40px;
+}
+#ca{
+	position: absolute;
+	top: 736px;
+	left: 940px;
+	width: 30px;
+	height: 40px;
+}
